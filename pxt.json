@@ -1,5 +1,5 @@
 {
-    "name": "60-BOB2_lib_originalblocks",
+    "name": "60-BOB2_lib_originalblocks #3",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -22,5 +22,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
