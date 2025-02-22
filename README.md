@@ -1,3 +1,5 @@
+# 中断
+makecodeで謎の挙動により、60-bob2_lib_functions を作成したので、中断とする。
 
 > このページを開く [https://coderdojonishinasuno.github.io/60-bob2_lib_originalblocks/](https://coderdojonishinasuno.github.io/60-bob2_lib_originalblocks/)
 
